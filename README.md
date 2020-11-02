@@ -1,24 +1,5 @@
-# README
+This is the first step of the creation of an app like the eventbrite.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The current app allow to create user, event, and attendance and send email after creating an user and an attendance.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Check the migrations, models, mailers, and the environment.rb to understand how it works.
